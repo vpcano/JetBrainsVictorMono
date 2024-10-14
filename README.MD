@@ -68,5 +68,6 @@ This font is a combination of the [JetBrainsMono](https://www.jetbrains.com/lp/m
 Inspired by font [Hactor](https://github.com/dqisme/Hactor) (combination of Hack and Victor Mono) by [dqisme](https://github.com/dqisme).
 
 - [Operator Mono](https://www.typography.com/fonts/operator/overview)
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 - [Victor Mono](https://github.com/rubjo/victor-mono)
 - [https://gist.github.com/junagao/f785ed77589246a3d063273b3a56f114](https://gist.github.com/junagao/f785ed77589246a3d063273b3a56f114)
