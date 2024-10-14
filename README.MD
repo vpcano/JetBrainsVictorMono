@@ -2,10 +2,11 @@
 
 This font is a combination of the [JetBrainsMono](https://www.jetbrains.com/lp/mono/) font and the [Victor Mono](https://github.com/rubjo/victor-mono) font for italic and bold italic families, trying to mimic the [Operator Mono](https://www.typography.com/fonts/operator/overview) font for free.
 
+![Screenshot](https://github.com/vpcano/JetBrainsVictorMono/blob/main/img/screenshot.png?raw=true)
 
 ## How to use
 
-1. CLone the repo and install all `*.ttf` files from the `ttf` folder in your OS.
+1. Clone the repo and install all `*.ttf` files from the `ttf` folder in your OS.
 2. Enable the font and font ligatures in your editor of choice. For VSCode:
 ```js
 "editor.fontFamily": "'JetBrainsVictorMono'",
